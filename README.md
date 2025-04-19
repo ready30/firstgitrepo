@@ -3,3 +3,5 @@
 - git clone
 - git push
 - git pull
+	- 그리고 추가
+
